@@ -1,4 +1,5 @@
 # You can change this base image to anything else
+# skip
 # But make sure to use the correct version of Java
 FROM adoptopenjdk/openjdk11:alpine-jre
 
